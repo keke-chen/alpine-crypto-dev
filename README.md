@@ -1,2 +1,2 @@
 # alpine-crypto-dev
-Building environment for DIAC lab's crypto research projects
+Building environment for the DIAC lab's crypto research projects
